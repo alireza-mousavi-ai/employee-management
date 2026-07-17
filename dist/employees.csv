@@ -1,0 +1,5 @@
+﻿employee_id,first_name,last_name,national_id,phone_number,email,position,base_salary,overtime,overtime_rate,fine
+EMP001,James,Anderson,784512369,09123456781,james.anderson@example.com,Software Engineer,85000,12:30:00,50,200
+EMP002,Sophia,Williams,563789214,09987654321,sophia.williams@example.com,Data Analyst,72000,8:45:00,40,0
+EMP003,Michael,Brown,912456738,09123456783,michael.brown@example.com,Project Manager,95000,15:00:00,80,500
+EMP004,Emma,Davis,348921765,09123654987,e.davis@example.com,HR Manager,75000,10:00:00,50,0
